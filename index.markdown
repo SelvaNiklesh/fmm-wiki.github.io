@@ -14,12 +14,12 @@ An open source map matching framework in C++ and Python.
 ### Features
 
 - **High performance**: C++ implementation using Rtree, optimized routing, parallel computing.
-- **Python API**: jupyter-notebook and web demo
-- **Scalibility**: millions of GPS points and millions of road edges.  
-- **Multiple data format**: GPS data in CSV and Shapefile.  Road network in OSM format, ESRI shapefile or Geopackage.
+- **Python API**: jupyter-notebook and web demo.
+- **Scalability**: millions of GPS points and millions of road edges.  
+- **Multiple data format**: GPS data in CSV and Shapefile.  Road network in OSM format, ESRI Shapefile or GeoPackage.
 - **Detailed matching information**: traversed path, geometry, individual matched edges, GPS error, etc.
-- **Multiple algorithms**: FMM and STMatch
-- **Cross platform support**: Unix, Mac and Windows(cygwin environment).
+- **Multiple algorithms**: FMM and STMatch.
+- **Cross-platform support**: Unix, Mac and Windows(cygwin environment).
 
 ### Web demo
 
